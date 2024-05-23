@@ -1,5 +1,5 @@
-# scripts
-Scripts Linux Úteis
+# Scripts
+Scripts Linux Úteis para gerenciamento da rede da MG Papelaria
 
 ## Mapear Impressoras Raspberry
 ```
